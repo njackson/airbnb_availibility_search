@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in airbnb_availability_search.gemspec
+# Specify your gem's dependencies in airbnb_availibility_search.gemspec
 gemspec
+
+gem 'text-table'
